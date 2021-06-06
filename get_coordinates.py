@@ -1,6 +1,6 @@
 from turtle import Screen, Turtle
 import pandas as pd
-import openpyxl
+
 
 screen = Screen()
 turtle = Turtle()
